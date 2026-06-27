@@ -1,0 +1,1 @@
+time,in_dropout,gt_x,gt_y,kf_x,kf_y,ekf_x,ekf_y,pf_x,pf_y,kf_err,ekf_err,pf_err
